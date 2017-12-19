@@ -1,0 +1,9 @@
+Bold_Cautious(胆大心细) 游戏使用说明
+
+1.Bold_Cautious.pde 是 processing 源代码，没有安装 processing 将无法打开
+
+2.用户根据自己的系统找到对应的文件夹，
+例如：windows64位系统找到文件夹“application.windows64”文件夹，
+直接打开文件夹中名为“Bold_Cautious”文件即可。
+
+3.“Bold_Cautious演示.mp4”是一个演示视频，可供参考观看
